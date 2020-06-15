@@ -1,5 +1,5 @@
 # Calculo-CCL-tiempo-real
-Algoritmo que consume data en tiempo real de la API de invertir online, permite calcular automaticamente el CCL de todos los papeles con CEDEARS.
+Algoritmo que consume data en tiempo real de la API de invertir online, permite calcular automaticamente el CCL de todos los papeles con ADRs.
 
 El codigo corre perfectamente en jupyter, hay que tener instalado : Pandas y requests(https://requests.readthedocs.io/es/latest/)
 
